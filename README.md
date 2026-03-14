@@ -1,7 +1,7 @@
-## Eyes in the Sky: Math in Aviation Computer Vision
+## Mathematical modeling of aircraft runway alignment
 
 ## Introduction
-This project explores the fusion of mathematics and Computer Vision — the technology that allows aircraft to perceive their environment. As a philologist transitioning into the world of tech, I find a beautiful symmetry between the structure of language and the logic of vision. 
+This project explores the mathematical logic behind the aircraft autonomous landing where the image of a 2D camera transforms into a 3D spacial data of the runway, helping pilots visualize the landing in a more precise way.   
 
 ## Objectives
 - To explain how Linear Algebra represents images as matrices.
