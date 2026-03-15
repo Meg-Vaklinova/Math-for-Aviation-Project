@@ -11,9 +11,6 @@ This project explores the mathematical logic behind the aircraft autonomous land
 ## Core of the problem
 The main aviation challenge in vision-based landing(the one that uses a camera in order to faciliate the job of the pilot or is completely anonomous) is extracting 3D information from 2D image data in order to determine the position of the plane relative to the runway. 
 
-
-
-
 ## The intrinsic camera matrix. 
 Intrinsic parameters of a camera are related to the camera itself, regardless of where it is placed. In order to explain how a camera perceives the three-dimensional world, we use the camera intrinsic matrix K - a 3x3 matrix that encodes the internal parameters of a camera: the focal lengtх, known better as the "zoom"(f_x, f_y) and the principal point(c_x, c_y), which is typically the center of the image. K defines the relationship between 3D coordinates and their 2D projectиons in the camera image. In the context of autonomous landing, K tells us exactly how a point on the runway appears as a pixel in the camera image. 
 
