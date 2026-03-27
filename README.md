@@ -9,7 +9,7 @@ This project explores the mathematical logic behind the aircraft autonomous land
 - Understand the role of probability in reducing "noise" caused by aircraft vibrations and atmospheric conditions.
 
 ## Core of the problem
-The main aviation challenge in vision-based landing(the one that uses a camera in order to faciliate the job of the pilot or is completely anonomous) is extracting 3D information from 2D image data in order to determine the position of the plane relative to the runway. 
+The main aviation challenge in vision-based landing(the one that uses a camera in order to faciliate the job of the pilot or is completely autonomous) is extracting 3D information from 2D image data in order to determine the position of the plane relative to the runway. 
 
 ## How to run
 Install the required libraries:
